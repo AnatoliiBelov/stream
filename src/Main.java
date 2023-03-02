@@ -15,6 +15,7 @@ public class Main {
         list.add(224);
         list.add(941);
         list.add(111);
+
         list.add(44448);
         list.add(55552);
 
